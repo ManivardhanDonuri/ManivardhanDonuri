@@ -3,7 +3,6 @@
 **Aspiring Data Engineer** | Machine Learning | Deep Learning | Data Pipelines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manivardhan_Reddy-blue)](https://www.linkedin.com/in/manivardhan-reddy-110550311)
-[![GitHub](https://img.shields.io/badge/GitHub-ManivardhanDonuri-black)](https://github.com/ManivardhanDonuri)
 
 ---
 
