@@ -43,17 +43,6 @@ Aspiring Data Engineer with hands-on experience in Machine Learning, Deep Learni
 
 ---
 
-## 📦 GitHub Repositories
-- **[ADmyBRAND-AI-Suite](https://github.com/ManivardhanDonuri/ADmyBRAND-AI-Suite)** – TypeScript project for AI Suite tools *(Updated Aug 4, 2025)*
-- **[Algo-Trading-System-with-ML-Automation](https://github.com/ManivardhanDonuri/Algo-Trading-System-with-ML-Automation)** – Python-based algo trading prototype *(Updated Aug 2, 2025)*
-- **[Fraud-Detection](https://github.com/ManivardhanDonuri/Fraud-Detection)** – Fraud detection using ML *(Updated Jul 31, 2025)*
-- **[TalentScout-AI](https://github.com/ManivardhanDonuri/TalentScout-AI)** – AI-based recruitment assistant *(Updated Jul 30, 2025)*
-- **[Intrusion_Detection_System](https://github.com/ManivardhanDonuri/Intrusion_Detection_System)** – Network security IDS *(Updated Jul 14, 2025)*
-- **[Movie_Recommdation_System](https://github.com/ManivardhanDonuri/Movie_Recommdation_System)** – Movie recommendation engine *(Updated Jul 7, 2025)*
-- **[employee-management-System](https://github.com/ManivardhanDonuri/employee-management-System)** – SQL CRUD operations *(Updated Jul 7, 2025)*
-- **[Sentiment-Analysis](https://github.com/ManivardhanDonuri/Sentiment-Analysis)** – NLP sentiment classification *(Updated Jul 7, 2025)*
-
----
 
 ## 📜 Certifications
 - **Python Programming & OOP** – Udemy | Sara Academy (Oct 2024)
