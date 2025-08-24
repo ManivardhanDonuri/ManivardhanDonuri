@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manivardhan Reddy Donuri
 
-**Aspiring Data Engineer** | Machine Learning | Deep Learning | Data Pipelines
+**Aspiring Data Engineer** | Machine Learning | Deep Learning 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manivardhan_Reddy-blue)](https://www.linkedin.com/in/manivardhan-reddy-110550311)
 
